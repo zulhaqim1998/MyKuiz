@@ -1,0 +1,12 @@
+a {
+    color: inherit;
+    text-decoration: none;
+}
+a:hover {
+    color: inherit;
+}
+
+.MuiToggleButton-root.Mui-selected {
+    background-color: rgba(21,234,2,0.32) !important;
+    color: #246510 !important;
+}
